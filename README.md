@@ -1,21 +1,6 @@
-# mvue
+# PC端页面全栈开发
 
-> A Vue.js project
-
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+> ● 开发工具：Hbuilder X  
+● 开发环境：windows8.1  
+● 语言技术：node(express)，Mysql，vue，js，jquery，css3，bootstrap  
+● 基本简介：后台界面运用Bootstrap框架搭建，有良好的浏览器兼容性；前端页面使用Vue框架搭建，能够适应各大主流浏览器。后台使用node结合mysql库动态显示页面内数据；页面内容主要展示品牌相关产品，有良好的视觉体验  
